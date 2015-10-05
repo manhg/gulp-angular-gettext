@@ -27,8 +27,8 @@
   "dependencies": {
     "through2": "~0.6.3",
     "gulp-util": "~3.0.2",
-    "angular-gettext-tools": "^2.0.1",
-    "lodash.isstring": "~2.4.1"
+    "lodash.isstring": "~2.4.1",
+    "angular-gettext-tools": "git://github.com/manhg/angular-gettext-tools.git#master"
   },
   "devDependencies": {
     "mocha": "^2.1.0",
